@@ -1,0 +1,6 @@
+{
+  "name": "A Gata da Make - Loja de Maquiagem e Cosméticos",
+  "description": "Loja de maquiagens, cosméticos e promoções exclusivas da A Gata da Make em São Paulo. Galeria da loja, produtos em oferta e atendimento via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
